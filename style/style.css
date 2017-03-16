@@ -1,0 +1,22 @@
+html {
+  background-color: #fff2cc;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0px 20px 0px 20px;
+  border: 1px solid black;
+}
+
+h3 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 1px 1px 1px blue;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
